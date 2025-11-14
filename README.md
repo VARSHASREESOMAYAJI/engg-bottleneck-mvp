@@ -1,3 +1,5 @@
+> ⚡ **Engineering Bottleneck Detector — DORA Metrics + Anomaly Engine (MVP)**  
+> Fast insights into delivery health with lead-time anomalies, failure trends, and deployment metrics.
 README.md
 
 # Engineering Bottleneck Detector — MVP
