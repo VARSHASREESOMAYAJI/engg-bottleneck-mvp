@@ -1,0 +1,8 @@
+[
+  {"id":"c1","repo":"repo-alpha","ts":"2025-11-01T08:00:00","author":"alice","files_changed":3},
+  {"id":"c2","repo":"repo-alpha","ts":"2025-11-02T09:30:00","author":"bob","files_changed":10},
+  {"id":"c3","repo":"repo-alpha","ts":"2025-11-03T10:00:00","author":"alice","files_changed":5},
+  {"id":"c4","repo":"repo-alpha","ts":"2025-11-05T14:00:00","author":"carol","files_changed":25},
+  {"id":"c5","repo":"repo-alpha","ts":"2025-11-07T11:00:00","author":"dave","files_changed":2},
+  {"id":"c6","repo":"repo-alpha","ts":"2025-11-10T09:00:00","author":"alice","files_changed":40}
+]
